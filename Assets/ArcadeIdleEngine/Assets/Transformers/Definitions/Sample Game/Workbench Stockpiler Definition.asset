@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d881ad80291d4c7aae6434d4e8c4ef50, type: 3}
+  m_Name: Workbench Stockpiler Definition
+  m_EditorClassIdentifier: 
+  <Ruleset>k__BackingField: {fileID: 11400000, guid: e576b3a7e133a4022b8d27a4bc8795e4,
+    type: 2}
+  <RowColumnHeight>k__BackingField:
+    RowCount: 2
+    ColumnCount: 2
+    HeightCount: 2
+    HeightOffset: 0.5
+    RowColumnOffset: 0.5
+  <JumpHeight>k__BackingField: 1
+  <JumpDuration>k__BackingField: 0.27
+  <ModifyingDurationPerItem>k__BackingField: 1.2
+  <InventoryFeedingInterval>k__BackingField: 0.2
+  <CollectingFromInventoryInterval>k__BackingField: 0.2

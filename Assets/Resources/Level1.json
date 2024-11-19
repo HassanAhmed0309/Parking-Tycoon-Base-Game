@@ -1,0 +1,1 @@
+{ "parkingSystems": [], "characterData": { "transform": { "pos": { "x": 0.0, "y": 0.0, "z": 0.0 }, "rot": { "x": 0.0, "y": 0.0, "z": 0.0 }, "scale": { "x": 0.0, "y": 0.0, "z": 0.0 } }, "money": 0, "gems": 0, "speed": { "currentSpeed": 3.0, "tempSpeedMultiplier": 1, "noOfUpgrades": 0 }, "capacity": { "currentCapacity": 3, "tempCapacityAdder": 0, "noOfUpgrades": 0 } } }
